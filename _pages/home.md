@@ -7,8 +7,6 @@ redirect_from:
   - /home/
 ---
 
-{% include base-path %}
-
 Welcome to my website! This is very much under construction, so I apologize in advance for any and all issues you may run into.
 
 I am currently a PhD Student in the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the Harvard TH Chan School of Public Health. My graduate studies are currently funded by an NIH Training Grant in Statistical Genetics and Genomics. My research interests lie broadly in high-dimensional statistics and machine learning, and most importantly their applications in biology and public health. 
