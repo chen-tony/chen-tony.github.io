@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Tony Chen"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /home/
-  - /
 ---
+
+{% include base-path %}
 
 Welcome to my website! This is very much under construction, so I apologize in advance for any and all issues you may run into.
 
