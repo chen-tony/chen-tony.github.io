@@ -11,6 +11,6 @@ redirect_from:
 
 Education
 ======
+* PhD in Biostatistics, Harvard University, 2025 (Expected)
 * BSE in Operations Research and Financial Engineering, Princeton University, 2020
   * Certificate in Statistics and Financial Engineering
-* PhD in Biostatistics, Harvard University, 2025 (Expected)
