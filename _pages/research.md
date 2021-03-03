@@ -10,4 +10,4 @@ Starting my academic career towards the start of this big data boom, I am intere
 # Publications
 
 # Talks
-\uline{Chen T}, Sun Y, Hakim H, Dallas R, Rosch J, Jeha S, & Tang L. “Model Selection for Longitudinal Microbiome Data with Excess Zeros”. Contributed talk at ENAR, Philadelphia, PA, Mar 2019.
+\underline{Chen T}, Sun Y, Hakim H, Dallas R, Rosch J, Jeha S, & Tang L. “Model Selection for Longitudinal Microbiome Data with Excess Zeros”. Contributed talk at ENAR, Philadelphia, PA, Mar 2019.
