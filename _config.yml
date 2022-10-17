@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Tony Chen"
-  avatar           : # "chen.png"
-  bio              : "Biostatistics PhD Student at Harvard"
+  avatar           : "chen.png"
+  bio              : "Biostatistics PhD Candidate at Harvard"
   location         : "Boston, MA"
   employer         :
   pubmed           : 
