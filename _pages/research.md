@@ -16,7 +16,6 @@ author_profile: true
 ### Clinical
 - Wang X, Nogues IE, Liu M, **Chen T**, Xiong X, Bonzel CL, Zhang H, Hong C, Dahal K, Costa L, Kim SC, Ho YL, Cho K, Cai T, Liao K. Differential Associations of Interleukin 6 Receptor Variant across Ancestries: A Phenome-Wide Association Study. *In submission* (2023), available on [medRxiv](https://www.medrxiv.org/content/10.1101/2022.09.24.22280325v1).
 - Tomack J, Mascardo K, Chen C, Li X, **Chen T**, Kim D, Machtei E. Clinical trials gone missing – a potential source for publication bias. *In submission* (2023).
-\end{enumerate}
 
 ## Talks
 - **Chen T**, Zhang H, Mazumder R, Lin X. "ALL-Sum: Regularized best subset selection and model averaging for polygenic risk prediction." Contributed talk at Joint Statistical Meetings, Toronto, Canada, Aug 2023. 
