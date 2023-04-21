@@ -86,8 +86,8 @@ author:
   location         : "Boston, MA"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=3G1t8YkAAAAJ&hl=en"
+  email            : "tonychen@g.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "github.com/chen-tony"
   google_plus      :
   keybase          :
   instagram        :
