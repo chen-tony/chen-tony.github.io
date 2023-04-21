@@ -26,6 +26,3 @@ MAT 104: Calculus II (2017-2018)
 
 WWS 200: Statistics for Social Science (Spring 2018)
 - Course assistant and grader for introductory course for public policy students
-
-## Other
-Group for Undergradates in Statistics at Harvard, Graduate Student Mentor (2020 - present)
