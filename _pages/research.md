@@ -6,9 +6,9 @@ author_profile: true
 --- 
 
 ## Polygenic Risk Scores
-**Novel Methods for Multi-ancestry Polygenic Prediction and their Evaluations in 3.7 Million Individuals of Diverse Ancestry**
-- Nature Genetics (2023), available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.24.485519v1)
-- Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Jiang Y, **Chen T**, Okuhara D, 23andMe Research Team, Garcia-Closas M, Lin X, Koelsch B, Chatterjee N
+**Novel Methods for Multi-ancestry Polygenic Prediction and their Evaluations in 3.7 Million Individuals of Diverse Ancestry** \\
+Nature Genetics (2023), available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.24.485519v1) \\
+Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Jiang Y, **Chen T**, Okuhara D, 23andMe Research Team, Garcia-Closas M, Lin X, Koelsch B, Chatterjee N
 
 ## Lung Cancer
 **Impact of individual level uncertainty of lung cancer polygenic risk score (PRS) on risk stratification and prediction**
