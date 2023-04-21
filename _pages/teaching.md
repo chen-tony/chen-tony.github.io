@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Harvard University / Harvard TH Chan School of Public Health
+## Harvard University / Harvard TH Chan School of Public Health
 ### Instructor
 Biostatistics Doctoral Qualifying Exam Preparatory Program (Summer 2022)
 - Led review sessions in probability and statistical inference for first-year doctoral students
@@ -20,7 +20,7 @@ BST 249 / BIST 249: Bayesian Methodology in Biostatistics (Spring 2022)
 BST 210: Applied Regression Analysis (Fall 2021)
 - Master's level course in statistical modeling and programming
 
-# Princeton Univeristy
+## Princeton Univeristy
 MAT 104: Calculus II (2017-2018)
 - Tutor and study-hall leader through McGraw Center for Teaching and Learing
 
