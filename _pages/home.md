@@ -7,6 +7,6 @@ redirect_from:
   - /home/
 ---
 
-I am currently a PhD candidate in the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the Harvard TH Chan School of Public Health, advised by [Professor Xihong Lin](https://content.sph.harvard.edu/xlin/index.html). My research interests lie broadly in high-dimensional statistical analysis, with applications to genomics and electronic health records. 
+I am currently a PhD candidate in the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the Harvard TH Chan School of Public Health, advised by [Professor Xihong Lin](https://content.sph.harvard.edu/xlin/index.html). My dissertation is focused on developing novel methods for polygenic risk scores. I also have several collaborations with the [International Lung Cancer Consortium](https://ilcco.iarc.fr). My research interests lie broadly in high-dimensional statistical analysis, with applications to genetics, cancer, and electronic health records. 
 
-I have a Bachelor's degree from the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) at Princeton University, with a certificate in Statistics and Machine Learning. I was advised by [Professor Jianqing Fan](https://fan.princeton.edu/) for my senior thesis, which explored high-dimensional variable selection and missing data. 
+Before my PhD, I completed my Bachelor's degree from the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) at Princeton University, with a certificate in Statistics and Machine Learning. I was advised by [Professor Jianqing Fan](https://fan.princeton.edu/) for my senior thesis, which explored high-dimensional variable selection and missing data. 
