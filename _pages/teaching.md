@@ -8,7 +8,7 @@ author_profile: true
 ## Harvard University / Harvard TH Chan School of Public Health
 ### Instructor
 Biostatistics Doctoral Qualifying Exam Preparatory Program (Summer 2022)
-- Led review sessions in probability and statistical inference for first-year doctoral students
+* Led review sessions in probability and statistical inference for first-year doctoral students
 
 ### Teaching Fellow
 BST 263: Statistical Learning (Spring 2023)
