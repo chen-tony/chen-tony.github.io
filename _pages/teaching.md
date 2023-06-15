@@ -7,7 +7,7 @@ author_profile: true
 
 ## Harvard University / Harvard TH Chan School of Public Health
 ### Instructor
-Biostatistics Doctoral Summer Preparatory Program (Summer 2022, 2023)
+Biostatistics Doctoral Summer Preparatory Program (Summer 2023)
 - Led introductory sessions on probability for incoming doctoral students
 
 Biostatistics Doctoral Qualifying Exam Preparatory Program (Summer 2022, 2023)
