@@ -8,10 +8,10 @@ author_profile: true
 ## Harvard University / Harvard TH Chan School of Public Health
 ### Instructor
 Biostatistics Doctoral Summer Preparatory Program (Summer 2023)
-- Led introductory sessions on probability for incoming doctoral students
+- Introductory sessions on computing and optimization for incoming PhD students
 
 Biostatistics Doctoral Qualifying Exam Preparatory Program (Summer 2022, 2023)
-- Led review sessions on probability and statistical inference for first-year doctoral students
+- Review sessions on statistical theory and methods for first-year PhD students
 
 ### Teaching Fellow
 BST 263: Statistical Learning (Spring 2023, 2024)
