@@ -23,7 +23,7 @@ BST 249 / BIST 249: Bayesian Methodology in Biostatistics (Spring 2022)
 BST 210: Applied Regression Analysis (Fall 2021)
 - Master's level course in statistical modeling and programming
 
-## Princeton Univeristy
+## Princeton University
 MAT 104: Calculus II (2017-2018)
 - Tutor and study-hall leader through McGraw Center for Teaching and Learing
 
