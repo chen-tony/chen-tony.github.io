@@ -15,8 +15,8 @@ Nature Genetics (2023) [Preprint](https://www.biorxiv.org/content/10.1101/2022.0
 Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Jiang Y, **Chen T**, Okuhara D, 23andMe Research Team, Garcia-Closas M, Lin X, Koelsch B, Chatterjee N
 
 ## Lung Cancer
-**Genomic Insights for Personalized Care: Motivating At-Risk Individuals Toward Evidence-Based Health Practices**
-*In preparation* (2024)
+**Genomic Insights for Personalized Care: Motivating At-Risk Individuals Toward Evidence-Based Health Practices**\
+*In preparation* (2024)\
 **Chen T**, Pham G, Fox L, Zhang J, Byun J, Han Y, Ramsey AT, McKay J, Bierut L, Amos CI, Hung RJ, Lin X, Zhang H, Chen LS
 
 **Impact of individual level uncertainty of lung cancer polygenic risk score (PRS) on risk stratification and prediction**\
