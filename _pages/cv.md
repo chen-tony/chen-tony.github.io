@@ -30,7 +30,7 @@ redirect_from:
 - Harvard Program in Quantitative Genomics Travel Award (2023) 
 - University of Washington Summer Institute in Statistical Genetics Scholarship (2022)
 
-### Teaching
+## Teaching
 - Certificate of Distinction in Teaching, Harvard School of Public Health (2022)
   - Recognition of outstanding teaching during 2021-2022 academic year
 
