@@ -26,7 +26,7 @@ Wang X, Zhang Z, Ding Y, **Chen T**, Mucci L, Albanes D, Landi M, Caporaso N, La
 ## Clinical
 **Heterogeneous associations between interleukin-6 receptor variants and phenotypes across ancestries and implications for therapy**\
 Scientific Reports (2024) [Article](https://www.nature.com/articles/s41598-024-54063-3)\
-Wang X, Liu M, Nogues IE, **Chen T**, Xiong X, Bonzel CL, ..., Cho K, Cai T, Liao K
+Wang X, Liu M, Nogues IE, **Chen T**, Xiong X, Bonzel CL, Zhang H, Hong C, Xia Y, Dahal K, Costa L, Cui J, VA Million Veteran Program, Gaziano JM, Kim SC, Ho YL, Cho K, Cai T, Liao K
 
 **Clinical trials gone missing – a potential source for publication bias**\
 *In preparation* (2023)\
