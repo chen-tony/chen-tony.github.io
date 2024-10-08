@@ -6,8 +6,8 @@ author_profile: true
 --- 
 
 ## Polygenic Risk Score Methodology
-**Ensembled best subset selection using summary statistics for polygenic risk prediction**\
-*bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2023.09.25.559307v2)\
+**Fast and scalable ensemble learning method for versatile polygenic risk prediction**\
+PNAS (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) \
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **A new method for multi-ancestry polygenic prediction improves performance across diverse populations**\
