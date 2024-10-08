@@ -9,5 +9,5 @@ main:
   - title: "Software"
     url: /software/
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
