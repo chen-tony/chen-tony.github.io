@@ -10,9 +10,13 @@ author_profile: true
 Proceedings of the National Academy of Sciences (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) \
 **Chen T**, Zhang H, Mazumder R, Lin X
 
+**SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations**\
+*bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.14.618256v1.full.pdf)
+**Chen T**, Zhang H, Mazumder R, Lin X
+
 **Genomic Insights for Personalized Care: Motivating At-Risk Individuals Toward Evidence-Based Health Practices**\
-*medRxiv* (2024) [Preprint](https://www.medrxiv.org/content/10.1101/2024.03.19.24304556v1)\
-**Chen T**, Pham G, Fox L, Zhang J, Byun J, Han Y, Saunders GRB, Liu D, Bray MJ, Ramsey AT, McKay J, Bierut L, Amos CI, Hung RJ, Lin X, Zhang H, Chen LS
+*eBioMedicine (in Press)* (2024) [Preprint](https://www.medrxiv.org/content/10.1101/2024.03.19.24304556v1)\
+**Chen T**, Pham G, Fox L, Adler N, Wang X, Zhang J, Byun J, Han Y, Saunders GRB, Liu D, Bray MJ, Ramsey AT, McKay J, Bierut L, Amos CI, Hung RJ, Lin X, Zhang H, Chen LS
 
 ## Published Manuscripts
 **A new method for multi-ancestry polygenic prediction improves performance across diverse populations**\
