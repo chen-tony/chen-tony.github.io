@@ -11,7 +11,7 @@ Proceedings of the National Academy of Sciences (2024) [Article](https://www.pna
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations**\
-*bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.14.618256v1.full.pdf)
+*bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.14.618256v1.full.pdf)\
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **Genomic Insights for Personalized Care: Motivating At-Risk Individuals Toward Evidence-Based Health Practices**\
