@@ -11,7 +11,7 @@ author_profile: true
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **Fast and scalable ensemble learning method for versatile polygenic risk prediction**\
-Proceedings of the National Academy of Sciences (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) \
+Proceedings of the National Academy of Sciences (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [Preprint](https://www.biorxiv.org/content/10.1101/2023.09.25.559307v2.full)\
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **Genomic Insights for Personalized Care: Motivating At-Risk Individuals Toward Evidence-Based Health Practices**\
