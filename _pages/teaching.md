@@ -7,6 +7,9 @@ author_profile: true
 
 ## Harvard University / Harvard TH Chan School of Public Health
 ### Instructor
+StatStart High School Summer Program (Summer 2024)
+- Introductory lessons on statistics and probability
+
 Biostatistics Doctoral Preparatory Program (Summer 2023, 2024)
 - Introductory sessions on statistics, probability, and computing for incoming PhD students
 
