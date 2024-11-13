@@ -37,6 +37,6 @@ Tomack J, Mascardo K, Chen C, **Chen T**, Li X, Kim D, Machtei E
 
 
 ## Preprints
-**Integrating Common and Rare Variants Improves**\
+**Integrating Common and Rare Variants Improves Polygenic Risk Prediction Across Diverse Populations**\
 *medRxiv* (2024) [Preprint](https://www.medrxiv.org/content/10.1101/2024.11.05.24316779v1) \
 Williams J, **Chen T**, Hua X, Wong W, Yu K, Kraft P, Zhang H
