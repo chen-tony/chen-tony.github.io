@@ -34,3 +34,9 @@ Wang X, Liu M, Nogues IE, **Chen T**, Xiong X, Bonzel CL, Zhang H, Hong C, Xia Y
 **Clinical Trials Gone Missing—A Potential Source for Publication Bias in Dentistry**\
 Publications (2024) [Article](https://www.mdpi.com/2304-6775/12/3/23) \
 Tomack J, Mascardo K, Chen C, **Chen T**, Li X, Kim D, Machtei E
+
+
+## Preprints
+**Integrating Common and Rare Variants Improves**
+*medRxiv* (2024) [Preprint](https://www.medrxiv.org/content/10.1101/2024.11.05.24316779v1)
+Williams J, **Chen T**, Hua X, Wong W, Yu K, Kraft P, Zhang H
