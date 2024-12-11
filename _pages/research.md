@@ -11,11 +11,11 @@ author_profile: true
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **Fast and scalable ensemble learning method for versatile polygenic risk prediction**\
-Proceedings of the National Academy of Sciences (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [PNAS Showcase](https://www.growkudos.com/publications/10.1073%252Fpnas.2403210121/reader) [Preprint](https://www.biorxiv.org/content/10.1101/2023.09.25.559307v2.full) \
+Proceedings of the National Academy of Sciences (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [PNAS Showcase](https://www.growkudos.com/publications/10.1073%252Fpnas.2403210121/reader)  \
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **Genomic insights for personalised care in lung cancer and smoking cessation: motivating at-risk individuals toward evidence-based health practices**\
-*eBioMedicine* (2024) [Article](https://www.sciencedirect.com/science/article/pii/S2352396424004778) [Preprint](https://www.medrxiv.org/content/10.1101/2024.03.19.24304556v1)\
+*eBioMedicine* (2024) [Article](https://www.sciencedirect.com/science/article/pii/S2352396424004778) \
 **Chen T**, Pham G, Fox L, Adler N, Wang X, Zhang J, Byun J, Han Y, Saunders GRB, Liu D, Bray MJ, Ramsey AT, McKay J, Bierut L, Amos CI, Hung RJ, Lin X, Zhang H, Chen LS
 
 ## Published Manuscripts
