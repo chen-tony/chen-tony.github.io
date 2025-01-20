@@ -15,7 +15,7 @@ Proceedings of the National Academy of Sciences (2024) [Article](https://www.pna
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **Genomic insights for personalised care in lung cancer and smoking cessation: motivating at-risk individuals toward evidence-based health practices**\
-*eBioMedicine* (2024) [Article](https://www.sciencedirect.com/science/article/pii/S2352396424004778) \
+*eBioMedicine* (2024) [Article](https://www.sciencedirect.com/science/article/pii/S2352396424004778) [Media Coverate](https://siteman.wustl.edu/using-genetics-to-prevent-lung-cancer/) \
 **Chen T**, Pham G, Fox L, Adler N, Wang X, Zhang J, Byun J, Han Y, Saunders GRB, Liu D, Bray MJ, Ramsey AT, McKay J, Bierut L, Amos CI, Hung RJ, Lin X, Zhang H, Chen LS
 
 ## Published Manuscripts
