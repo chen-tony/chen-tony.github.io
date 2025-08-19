@@ -7,6 +7,6 @@ redirect_from:
   - /home/
 ---
 
-I am currently a PhD candidate in the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the Harvard TH Chan School of Public Health, advised by [Professor Xihong Lin](https://www.hsph.harvard.edu/lin-lab/). My dissertation is focused on developing novel methods for polygenic risk scores from large-scale biobanks and association studies. I also have several collaborations with the [International Lung Cancer Consortium](https://ilcco.iarc.fr). 
+I am currently Postdoctoral Research Fellow in the Analytical and Translational Genetics Unit at Massachusetts General Hospital, under the mentorship of Drs. Mark Daly and Benjamin Neale. My research focuses broadly on method development in statistical genetics and biobank-scale genomic analysis.
 
-Before my PhD, I completed my Bachelor's degree from the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) at Princeton University, with a certificate in Statistics and Machine Learning. I was advised by [Professor Jianqing Fan](https://fan.princeton.edu/) for my senior thesis, which explored high-dimensional variable selection and missing data. 
+Previously, I completed my PhD in Biostatistics from Harvard University, advised by Professor Xihong Lin, where I developed novel methods for polygenic risk score modeling and collaborated with the International Lung Cancer Consortium in translational lung cancer genetics. Before my PhD, I completed my Bachelor's degree Operations Research and Financial Engineering at Princeton University, with a certificate in Statistics and Machine Learning, where I conducted senior thesis research with Professor Jianqing Fan on high-dimensional variable selection and missing data. 
