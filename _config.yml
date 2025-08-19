@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "chentony _at_ broadinstitute _dot_ org
+    email                : #
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tony Chen"
   avatar           : "chen.png"
-  bio              : "Biostatistics PhD Candidate at Harvard"
+  bio              : "Postdoc @ MGH / Broad Institute"
   location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3G1t8YkAAAAJ&hl=en"
-  email            : "tonychen@g.harvard.edu"
+  email            : "chentony@broadinstitute.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
