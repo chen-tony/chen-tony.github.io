@@ -19,9 +19,13 @@ Proceedings of the National Academy of Sciences (2024) [Article](https://www.pna
 **Chen T**, Pham G, Fox L, Adler N, Wang X, Zhang J, Byun J, Han Y, Saunders GRB, Liu D, Bray MJ, Ramsey AT, McKay J, Bierut L, Amos CI, Hung RJ, Lin X, Zhang H, Chen LS
 
 ## Published Manuscripts
-**A new method for multi-ancestry polygenic prediction improves performance across diverse populations**\
-Nature Genetics (2023) [Article](https://www.nature.com/articles/s41588-023-01501-z)\
-Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Jiang Y, **Chen T**, Okuhara D, 23andMe Research Team, Garcia-Closas M, Lin X, Koelsch B, Chatterjee N
+**Integrating Common and Rare Variants Improves Polygenic Risk Prediction Across Diverse Populations**\
+*Nature Communications* (2026) [Article]([https://www.medrxiv.org/content/10.1101/2024.11.05.24316779v1](https://www.nature.com/articles/s41467-026-72185-2)) \
+Williams J, **Chen T**, Hua X, Wong W, Yu K, Kraft P, Li X, Zhang H
+
+**Evaluating multi-ancestry genome-wide association methods: Statistical power, population structure, and practical implications**
+*The American Journal of Human Genetics* (2025) [Article](https://www.cell.com/ajhg/abstract/S0002-9297(25)00316-7)
+Dias JA, **Chen T**, Xing H, Wang X, Rodriguez AA, Madduri RK, Kraft P, Zhang H
 
 **Impact of individual level uncertainty of lung cancer polygenic risk score (PRS) on risk stratification and prediction**\
 Genome Medicine (2024) [Article](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01298-4)\
@@ -35,8 +39,11 @@ Wang X, Liu M, Nogues IE, **Chen T**, Xiong X, Bonzel CL, Zhang H, Hong C, Xia Y
 Publications (2024) [Article](https://www.mdpi.com/2304-6775/12/3/23) \
 Tomack J, Mascardo K, Chen C, **Chen T**, Li X, Kim D, Machtei E
 
+**A new method for multi-ancestry polygenic prediction improves performance across diverse populations**\
+Nature Genetics (2023) [Article](https://www.nature.com/articles/s41588-023-01501-z)\
+Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Jiang Y, **Chen T**, Okuhara D, 23andMe Research Team, Garcia-Closas M, Lin X, Koelsch B, Chatterjee N
 
 ## Preprints
-**Integrating Common and Rare Variants Improves Polygenic Risk Prediction Across Diverse Populations**\
-*medRxiv* (2024) [Preprint](https://www.medrxiv.org/content/10.1101/2024.11.05.24316779v1) \
-Williams J, **Chen T**, Hua X, Wong W, Yu K, Kraft P, Li X, Zhang H
+**Rare coding and noncoding variants map 1,342 diseases and biomarkers in 490,549 whole genomes**
+*medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.03.24.26349148.abstract)
+Yuan Y, Guan Y, Feng Y, **Chen T**, Zhang Y, Chang B, Fan S, Lu C, Li W, Li X, Li X, Lin X, Li Z
