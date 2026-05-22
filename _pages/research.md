@@ -46,6 +46,6 @@ Nature Genetics (2023) [Article](https://www.nature.com/articles/s41588-023-0150
 Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Jiang Y, **Chen T**, Okuhara D, 23andMe Research Team, Garcia-Closas M, Lin X, Koelsch B, Chatterjee N
 
 ## Preprints
-**Rare coding and noncoding variants map 1,342 diseases and biomarkers in 490,549 whole genomes**
-*medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.03.24.26349148.abstract)
+**Rare coding and noncoding variants map 1,342 diseases and biomarkers in 490,549 whole genomes**\
+*medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.03.24.26349148.abstract)\
 Yuan Y, Guan Y, Feng Y, **Chen T**, Zhang Y, Chang B, Fan S, Lu C, Li W, Li X, Li X, Lin X, Li Z
