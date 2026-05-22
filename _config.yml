@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iWZQfn0AAAAJ&hl=en"
-  email            : "chentony@broadinstitute.org"
+  email            : # "chentony@broadinstitute.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/chen-tony"
+  github           : "chen-tony"
   google_plus      :
   keybase          :
   instagram        :
