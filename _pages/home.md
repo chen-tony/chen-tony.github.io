@@ -7,7 +7,7 @@ redirect_from:
   - /home/
 ---
 
-I am a Postdoctoral Research Fellow in the Analytic and Translational Genetics Unit at Massachusetts General Hospital and the Broad Institute, working with Drs. Mark Daly and Benjamin Neale. My research focuses on developing statistical methods to model the second-order genetic architecture of complex traits and diseases, with the goal of improving personalized risk prediction across dimensions such as ancestry, sex, and age.
+I am a Postdoctoral Research Fellow in the Analytic and Translational Genetics Unit at Massachusetts General Hospital and the Broad Institute of MIT and Harvard, working with Drs. Mark Daly and Benjamin Neale. My research focuses on developing statistical methods to model the second-order genetic architecture of complex traits and diseases, with the goal of improving personalized risk prediction across dimensions such as ancestry, sex, and age.
 
 My current work includes developing frameworks to model genetic effects on the X chromosome and leading analyses within the Global Biobank Meta-Analysis Initiative to uncover the genetic basis of disease progression. I also collaborate closely with the International Lung Cancer Consortium on translational studies in lung cancer genetics.
 
