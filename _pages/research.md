@@ -27,7 +27,7 @@ author_profile: true
 
 ## Published Manuscripts
 **Integrating Common and Rare Variants Improves Polygenic Risk Prediction Across Diverse Populations**\
-*Nature Communications* (2026) [Article]([https://www.medrxiv.org/content/10.1101/2024.11.05.24316779v1](https://www.nature.com/articles/s41467-026-72185-2)) \
+*Nature Communications* (2026) [Article](https://www.nature.com/articles/s41467-026-72185-2) \
 Williams J, **Chen T**, Hua X, Wong W, Yu K, Kraft P, Li X, Zhang H
 
 **Evaluating multi-ancestry genome-wide association methods: Statistical power, population structure, and practical implications**
