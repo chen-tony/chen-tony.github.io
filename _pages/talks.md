@@ -18,5 +18,5 @@ Invited seminar at Broad Institute Medical and Population Genetics Program Meeti
 Cambridge, MA, Apr 2026
 
 **Scalable penalized regression methods for polygenic risk prediction using GWAS summary statistics and diverse biobank data**\
-Invited talk at PRIMED Consortium Methods Working Group
+Invited talk at PRIMED Consortium Methods Working Group\
 Virtual, Jun 2024
