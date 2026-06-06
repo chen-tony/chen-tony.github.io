@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Works
 **SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations**\
-*bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.14.618256v1.full.pdf)\
+*bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.14.618256v1)\
 **Chen T**, Zhang H, Mazumder R, Lin X
 - Reviewer's Choice Abstract by American Society of Human Genetics (2024)
 - Student Paper Award by American Statistical Association Section on Genetics and Genomics (2025)
@@ -31,7 +31,7 @@ author_profile: true
 Williams J, **Chen T**, Hua X, Wong W, Yu K, Kraft P, Li X, Zhang H
 
 **Evaluating multi-ancestry genome-wide association methods: Statistical power, population structure, and practical implications**
-*The American Journal of Human Genetics* (2025) [Article](https://www.cell.com/ajhg/abstract/S0002-9297(25)00316-7)
+*The American Journal of Human Genetics* (2025) [Article](https://www.cell.com/ajhg/abstract/S0002-9297(25)00316-7) \
 Dias JA, **Chen T**, Xing H, Wang X, Rodriguez AA, Madduri RK, Kraft P, Zhang H
 
 **Impact of individual level uncertainty of lung cancer polygenic risk score (PRS) on risk stratification and prediction**\
@@ -52,5 +52,5 @@ Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Ji
 
 ## Preprints
 **Rare coding and noncoding variants map 1,342 diseases and biomarkers in 490,549 whole genomes**\
-*medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.03.24.26349148.abstract)\
+*medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.03.24.26349148v1)\
 Yuan Y, Guan Y, Feng Y, **Chen T**, Zhang Y, Chang B, Fan S, Lu C, Li W, Li X, Li X, Lin X, Li Z
