@@ -12,6 +12,11 @@ author_profile: true
 - Reviewer's Choice Abstract by American Society of Human Genetics (2024)
 - Student Paper Award by American Statistical Association Section on Genetics and Genomics (2025)
 
+**STELLAR: A flexible ensemble learning framework integrating rare variants to enhance polygenic risk prediction**\
+*medRxiv* (2026) [Preprint]()\
+**Chen T**, Li X, Zhang H, Mazumder R, Lin X
+- Invited Talk at American Statistical Association Conference on Statistics in Genetics and Genomics (2026)
+
 **Fast and scalable ensemble learning method for versatile polygenic risk prediction**\
 Proceedings of the National Academy of Sciences (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [PNAS Showcase](https://www.growkudos.com/publications/10.1073%252Fpnas.2403210121/reader)  \
 **Chen T**, Zhang H, Mazumder R, Lin X
