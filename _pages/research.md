@@ -18,7 +18,7 @@ author_profile: true
 - Invited Talk at American Statistical Association Conference on Statistics in Genetics and Genomics (2026)
 
 **Fast and scalable ensemble learning method for versatile polygenic risk prediction**\
-Proceedings of the National Academy of Sciences (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [PNAS Showcase](https://www.growkudos.com/publications/10.1073%252Fpnas.2403210121/reader)  \
+*Proceedings of the National Academy of Sciences* (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [PNAS Showcase](https://www.growkudos.com/publications/10.1073%252Fpnas.2403210121/reader)  \
 **Chen T**, Zhang H, Mazumder R, Lin X
 
 **Genomic insights for personalised care in lung cancer and smoking cessation: motivating at-risk individuals toward evidence-based health practices**\
