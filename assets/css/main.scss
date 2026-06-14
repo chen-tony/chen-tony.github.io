@@ -55,14 +55,3 @@
   display: inline-block;
   line-height: 1.35;
 }
-
-/* Widen author sidebar */
-.sidebar {
-  @include breakpoint($large) {
-    width: 260px;
-  }
-
-  @include breakpoint($x-large) {
-    width: 300px;
-  }
-}
