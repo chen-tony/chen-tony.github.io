@@ -87,7 +87,7 @@ author:
   employer: "Massachusetts General Hospital<br>Broad Institute of MIT and Harvard"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iWZQfn0AAAAJ&hl=en"
-  email            : # "chentony [at] broadinstitute [dot] org" # "chentony@broadinstitute.org"
+  #email            : # "chentony [at] broadinstitute [dot] org" # "chentony@broadinstitute.org"
   email_display: "chentony [at] broadinstitute [dot] org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
