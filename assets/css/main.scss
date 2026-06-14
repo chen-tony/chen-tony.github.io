@@ -39,3 +39,19 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom sidebar formatting */
+.author__urls .author-employer-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.author__urls .author-employer-row i {
+  flex: 0 0 1.4em;
+  margin-top: 0.25em;
+}
+
+.author__urls .author-employer-text {
+  display: inline-block;
+  line-height: 1.35;
+}
