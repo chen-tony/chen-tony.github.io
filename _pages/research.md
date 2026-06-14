@@ -8,13 +8,13 @@ author_profile: true
 ## Selected Publications and Preprints
 **SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations**\
 *bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.14.618256v1)\
-**Chen T**, Zhang H, Mazumder R, Lin X
+**Chen T**, Zhang H, Mazumder R, Lin X\
 Awarded ASHG Reviewer’s Choice Abstract (2024) and ASA SGG Student Paper Award (2025)
 
 **STELLAR: A flexible ensemble learning framework integrating rare variants to enhance polygenic risk prediction**\
 *medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.06.07.26355109v1)\
-**Chen T**, Li X, Zhang H, Mazumder R, Lin X
-Awarded an Invited Talk at ASA Conference on Statistics in Genetics and Genomics (2026)
+**Chen T**, Li X, Zhang H, Mazumder R, Lin X\
+Invited Talk at ASA Conference on Statistics in Genetics and Genomics (2026)
 
 **Fast and scalable ensemble learning method for versatile polygenic risk prediction**\
 *Proceedings of the National Academy of Sciences* (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [PNAS Showcase](https://www.growkudos.com/publications/10.1073%252Fpnas.2403210121/reader)  \
