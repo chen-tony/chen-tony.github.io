@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tony Chen"
   avatar           : "chen2026.png"
-  bio              : "Postdoctoral Research Fellow"
+  bio              : "Postdoctoral Research Fellow<br>Massachusetts General Hospital<br>Broad Institute of MIT and Harvard"
   location         : 
-  employer: "Massachusetts General Hospital<br>Broad Institute of MIT and Harvard"
+  employer: #"Massachusetts General Hospital<br>Broad Institute of MIT and Harvard"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iWZQfn0AAAAJ&hl=en"
   #email            : # "chentony [at] broadinstitute [dot] org" # "chentony@broadinstitute.org"
