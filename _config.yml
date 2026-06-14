@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tony Chen"
   avatar           : "chen2026.png"
-  bio              : "Postdoc @ MGH / Broad Institute"
-  location         : "Boston, MA"
-  employer         :
+  bio              : "Postdoctoral Research Fellow"
+  location         : 
+  employer         : Massachusetts General Hospital / Broad Institute of MIT and Harvard
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iWZQfn0AAAAJ&hl=en"
-  email            : # "chentony@broadinstitute.org"
+  email            : "chentony [at] broadinstitute [dot] org" # "chentony@broadinstitute.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tony-chen-statgen/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
