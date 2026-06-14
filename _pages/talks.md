@@ -7,7 +7,7 @@ author_profile: true
 
 **Advancing Gene Discovery and Therapeutic Translation Through Population-Scale Genomics in Global Biobanks**\
 Featured symposium at American Society of Human Genetics Annual Meeting\
-Montreal, Canada, Oct 2026
+Montreal, Canada, Oct 2026 (Upcoming)
 
 **STELLAR: flexible ensemble learning framework to integrate rare variants into polygenic risk prediction**\
 Invited talk at Conference on Statistics in Genomics and Genetics\
