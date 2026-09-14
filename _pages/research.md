@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications and Preprints
 **SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations**\
-*bioRxiv* (2024) [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.14.618256v1)\
+*Nature Methods* (2026) [Article](https://www.nature.com/articles/s41592-026-03235-2)\
 **Chen T**, Zhang H, Mazumder R, Lin X\
 Awarded ASHG Reviewer’s Choice Abstract (2024) and ASA SGG Student Paper Award (2025)
 
