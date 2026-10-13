@@ -5,16 +5,11 @@ permalink: /research/
 author_profile: true
 --- 
 
-## Selected Publications and Preprints
+## Selected Works
 **SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations**\
 *Nature Methods* (2026) [Article](https://www.nature.com/articles/s41592-026-03235-2) [Cover Page](https://www.nature.com/nmeth/volumes/23/issues/10)\
 **Chen T**, Zhang H, Mazumder R, Lin X\
 Awarded ASHG Reviewer’s Choice Abstract (2024) and ASA SGG Student Paper Award (2025) 
-
-**STELLAR: A flexible ensemble learning framework integrating rare variants to enhance polygenic risk prediction**\
-*medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.06.07.26355109v1)\
-**Chen T**, Li X, Zhang H, Mazumder R, Lin X\
-Invited Talk at ASA Conference on Statistics in Genetics and Genomics (2026)
 
 **Fast and scalable ensemble learning method for versatile polygenic risk prediction**\
 *Proceedings of the National Academy of Sciences* (2024) [Article](https://www.pnas.org/doi/10.1073/pnas.2403210121) [PNAS Showcase](https://www.growkudos.com/publications/10.1073%252Fpnas.2403210121/reader)  \
@@ -49,7 +44,12 @@ Tomack J, Mascardo K, Chen C, **Chen T**, Li X, Kim D, Machtei E
 Nature Genetics (2023) [Article](https://www.nature.com/articles/s41588-023-01501-z)\
 Zhang H, Zhan J, Jin J, Zhang J, Lu W, Zhao R, Ahearn T, Yu Z, O’Connell J, Jiang Y, **Chen T**, Okuhara D, 23andMe Research Team, Garcia-Closas M, Lin X, Koelsch B, Chatterjee N
 
-## Preprints
+## Preprints and Working Papers
 **Rare coding and noncoding variants map 1,342 diseases and biomarkers in 490,549 whole genomes**\
 *medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.03.24.26349148v1)\
 Yuan Y, Guan Y, Feng Y, **Chen T**, Zhang Y, Chang B, Fan S, Lu C, Li W, Li X, Li X, Lin X, Li Z
+
+**STELLAR: A flexible ensemble learning framework integrating rare variants to enhance polygenic risk prediction**\
+*medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.06.07.26355109v1)\
+**Chen T**, Li X, Zhang H, Mazumder R, Lin X\
+Invited Talk at ASA Conference on Statistics in Genetics and Genomics (2026)
