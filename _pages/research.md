@@ -7,10 +7,9 @@ author_profile: true
 
 ## Selected Publications and Preprints
 **SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations**\
-*Nature Methods* (2026) [Article](https://www.nature.com/articles/s41592-026-03235-2)\
+*Nature Methods* (2026) [Article](https://www.nature.com/articles/s41592-026-03235-2) [Cover Article](https://www.nature.com/nmeth/volumes/23/issues/10)\
 **Chen T**, Zhang H, Mazumder R, Lin X\
 Awarded ASHG Reviewer’s Choice Abstract (2024) and ASA SGG Student Paper Award (2025) \
-Selected as cover article for [Nature Methods October issue](https://www.nature.com/nmeth/volumes/23/issues/10)
 
 **STELLAR: A flexible ensemble learning framework integrating rare variants to enhance polygenic risk prediction**\
 *medRxiv* (2026) [Preprint](https://www.medrxiv.org/content/10.64898/2026.06.07.26355109v1)\
